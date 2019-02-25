@@ -44,27 +44,6 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-
-/*******************************
-********** MAIN CSS ***********/
-
-:root {
-	--bg-primary: #4e5266;
-	--bg-secondary: #575B72;
-	--color-primary: #4cabb1;
-	--color-secondary: #69c7ad;
-	--color-tertiary: #fed586;
-	--font: 'Raleway', sans-serif;
-	--text-color: #434b56;
-	--heading-color: #fff;
-	font-size: 16px;
-}
-body {
-	font-family: var(--font);
-	line-height: 1.5;
-	color: var(--text-color);
-}
-
 /******* Base CSS *******/
 *, *:before, *:after {
 	box-sizing: border-box;

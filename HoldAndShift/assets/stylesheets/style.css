@@ -49,9 +49,10 @@ table {
 ********** MAIN CSS ***********/
 body {
 background: lightcoral;
-font-size: 24px;
-letter-spacing: 0.5px;
-font-family: sans-serif;
+font-size: 18px;
+font-weight: 300;
+letter-spacing: 1px;
+font-family:'helvetica neue';
 }
 /* wrapper */
 .container {
@@ -72,10 +73,7 @@ font-family: sans-serif;
 	border-bottom:0;
 }
 p {
-	padding:20px;
-	font-family:'helvetica neue';
-	font-size: 18px;
-	font-weight: 300;
+	padding:18px;
 	border-left: 1px solid #D1E2FF;
 }
 input:checked + p{
